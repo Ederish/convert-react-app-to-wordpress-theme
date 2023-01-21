@@ -1,0 +1,23 @@
+{
+  "files": {
+    "static/css/0.chunk.css": "/comerce%20++/wp-content/themes/disney/static/css/0.chunk.css",
+    "static/js/0.chunk.js": "/comerce%20++/wp-content/themes/disney/static/js/0.chunk.js",
+    "static/css/0.chunk.css.map": "/comerce%20++/wp-content/themes/disney/static/css/0.chunk.css.map",
+    "static/js/0.chunk.js.map": "/comerce%20++/wp-content/themes/disney/static/js/0.chunk.js.map",
+    "main.css": "/comerce%20++/wp-content/themes/disney/static/css/main.chunk.css",
+    "main.js": "/comerce%20++/wp-content/themes/disney/static/js/main.chunk.js",
+    "main.css.map": "/comerce%20++/wp-content/themes/disney/static/css/main.chunk.css.map",
+    "main.js.map": "/comerce%20++/wp-content/themes/disney/static/js/main.chunk.js.map",
+    "runtime-main.js": "/comerce%20++/wp-content/themes/disney/static/js/bundle.js",
+    "runtime-main.js.map": "/comerce%20++/wp-content/themes/disney/static/js/bundle.js.map",
+    "index.php": "/comerce%20++/wp-content/themes/disney/index.php",
+    "static/media/slick-theme.css": "/comerce%20++/wp-content/themes/disney/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/css/0.chunk.css",
+    "static/js/0.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
